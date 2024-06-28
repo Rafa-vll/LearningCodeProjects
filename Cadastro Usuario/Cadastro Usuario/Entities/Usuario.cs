@@ -59,7 +59,7 @@ namespace Cadastro_Usuario.Entities
             }
             else
             {
-                Console.WriteLine("Edição cancelada. O nome não pode estar em branco.");
+                Console.WriteLine("Edição cancelada.");
             }
         }
 
